@@ -3,7 +3,6 @@ import 'package:flutter_quiz_app/services/auth.dart';
 
 import 'package:flutter_quiz_app/login/login.dart';
 import 'package:flutter_quiz_app/topics/topics.dart';
-import 'package:flutter_quiz_app/services/auth.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
